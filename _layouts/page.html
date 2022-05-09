@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title | escape }}</h1>
+  
+  {{ content }}
+
+  {% if page.update %}
+  <p class="meta-update">Updated on {{ page.update }}.</p>
+  {% endif %}
+</article>

@@ -1,0 +1,28 @@
+<style type="text/css">
+{%- capture include_to_scssify -%}
+
+  {% include css/settings.css %}
+
+  {% include css/theme/{{ site.layout.theme | default: 'default' }}.css %}
+
+  {% include css/styles.css %}
+
+  {% if site.styles.forms != false %} {% include css/forms.css %} {% endif %}
+  
+  {% include css/styles-extended.css %}
+  
+  {% if site.layout.theme_switch != false %} {% include css/theme-toggle.css %} {% endif %}
+  
+  {% if site.styles.syntax_highlighter != false %}
+    {% if page.type == posts %}
+      {% include css/highlighter/{{ site.layout.theme_highlighter | default: 'default' }}.css %}
+    {% endif %}
+  {% endif %}
+
+  {% if jekyll.environment == "development" %}
+   {% include css/debug.css %}
+  {% endif %}
+
+{%- endcapture -%}
+{{- include_to_scssify | scssify | strip_newlines  -}}
+</style>

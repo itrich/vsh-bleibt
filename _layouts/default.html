@@ -1,0 +1,37 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>
+  {%- if title -%}{{ title }}
+  {%- elsif page.title -%}{{ page.title }}
+  {%- else -%}{{ site.title }}
+  {%- endif -%}
+</title>
+
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="robots" content="index,follow">
+
+{% include styles.html %}
+{% include head-custom.html %}
+
+</head>
+<body>
+
+{% include header.html %}
+
+<main>{{ content }}</main>
+
+{% include footer.html %}
+
+<script type="text/javascript">{% include scripts.html %}</script>
+
+{% include footer-ext.html %}
+
+</body>
+</html>

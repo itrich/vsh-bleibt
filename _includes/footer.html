@@ -1,0 +1,20 @@
+<footer class="footer">
+  {% include nav.html %}
+  <div class="footer__credit">
+    <div>
+      <p>
+        {% if site.footer.custom != false %}
+          <small>{{ site.footer_custom }}</small>
+        {% else %}
+          <small>Copyright © {{ "now" | date: "%Y" }} {{ site.title }}.</small>
+        {% endif %}
+        {% if site.footer.credit != false %}
+          <small><a href="https://oinam.github.io/oinam-jekyll/" target="_blank">Oinam Jekyll</a>.</small>
+        {% endif %}
+      </p>
+    </div>
+    {% if site.layout.theme_switch != false %}
+      {% include appearance.html %}
+    {% endif %}
+  </div>
+</footer>

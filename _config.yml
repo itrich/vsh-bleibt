@@ -1,0 +1,74 @@
+title: Oinam Jekyll
+description: A simple, clean, and minimal Jekyll Theme.
+
+# Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
+# you can leave both of them blank if you are deploying on a top-level domain.
+url: https://oinam.github.io
+baseurl: /oinam-jekyll
+
+# footer
+footer:
+  credit: true
+  custom: false
+
+# if above footer:custom is 'true', then this will be printed instead
+footer_custom: 'An ever Work-in-Progress effort by <a href="https://oinam.com">Oinam</a>.'
+
+layout:
+  theme: default # default, vintage, nord
+  theme_highlighter: vs # default, more at css/highlighter (source: https://github.com/richleland/pygments-css)
+  theme_switch: true # enable or disable user toggle switch between light and dark theme
+  home_posts_no: 6
+  home_postheader_title: 'Recent posts'
+  home_postmeta_title: 'View all'
+  posts_home: /blog/
+  link_new_tab: true # should external links open in a new tab (true) or in the current tab (false)
+
+# styles
+# include only the styles you want [true | false]
+styles:
+  font_family: sans # serif, sans (default)
+  forms: true
+  syntax_highlighter: true # Code Syntax Highlighter
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: pretty
+permalink: /:title/
+
+sass:
+  style: compressed # nested, compact, expanded or compressed
+  sourcemap: never
+
+plugins:
+ - jekyll-optional-front-matter # https://github.com/benbalter/jekyll-optional-front-matter
+ - jekyll-titles-from-headings # https://github.com/benbalter/jekyll-titles-from-headings/
+
+defaults:
+  - scope:
+      path: '_posts'
+      type: 'posts'
+    values:
+      layout: 'post'
+      permalink: '/:year/:title/'
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
+exclude:
+  - .jekyll-cache/
+  - .sass-cache/
+  - Gemfile
+  - Gemfile.lock
+  - gemfiles/
+  - LICENSE
+  - netlify.toml
+  - node_modules/
+  - oinam-jekyll-*.*
+  - oinam-jekyll.gemspec
+  - README.*
+  - server
+  - vendor/

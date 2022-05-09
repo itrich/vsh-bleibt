@@ -1,0 +1,122 @@
+:root {
+  --font-family-sans:       system-ui, -apple-system, 'Segoe UI', 'Roboto', Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  --font-family-serif:      Georgia, 'Times New Roman', serif;
+  --font-family-monospace:  SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+  --font-family-cursive:    cursive;
+
+  /* an ideal reading width - 48rem - 768px based off 16px:1rem */
+  /* remember to set this to media-queries too if you are not handling it separately */
+  --body-width: 48rem;
+
+  /* default: minor third scale progression */
+  --typescale-body: 1.2;
+
+  /* headings:  major third scale progression */
+  --typescale-heading: 1.25;
+
+  /* spacings */
+  --spacing-heading: 1rem;
+
+  
+  /* default: minor-third scale progression */
+  --space-ratio: 1.2;
+
+  --space-base: 1;
+  --space-base-px: 16px;
+  --space-base-em: 1em;
+  --space-base-rem: 1rem;
+  
+  --spacescale0: 1;
+  --spacescale1: var(--space-ratio);                            /* 1.2   */
+  --spacescale2: calc(var(--space-ratio) * var(--spacescale1)); /* 1.44  */
+  --spacescale3: calc(var(--space-ratio) * var(--spacescale2)); /* 1.728 */
+  --spacescale4: calc(var(--space-ratio) * var(--spacescale3)); /* 2.074 */
+  --spacescale5: calc(var(--space-ratio) * var(--spacescale4)); /* 2.488 */
+  --spacescale6: calc(var(--space-ratio) * var(--spacescale5)); /* 2.986 */
+  --spacescale7: calc(var(--space-ratio) * var(--spacescale6)); /* 3.583 */
+
+  /* space - try to use these */
+  --space-base: var(--space-base-rem);
+  --space-half: calc(var(--space-base-rem) / 2);
+  --space-quarter: calc(var(--space-base-rem) / 4);
+  --space-double: calc(var(--space-base-rem) * 2);
+
+
+  /* typography */
+  --font-family: var(--font-family-sans);
+  --font-family-headings: var(--font-family-sans);
+  
+  --font-size: 16px;
+  --font-size-small: 85%;
+  --font-size-smaller: 70%;
+  --font-size-smallest: 65%;
+  --font-size-large: 115%;
+  --font-size-larger: 130%;
+  
+  --line-height: 1.618;
+  --line-height-heading: 1.25;
+
+  --border-width: 1px;
+  --border-width-alt: 3px;
+  
+  --border-radius: 0.3rem;
+  --border-radius-high: 0.7rem;
+  --border-radius-round: 100%;
+
+
+  --image-width-max: 1200px; /*there is a limit to how wide an image can be*/
+
+  
+  /* color - standard */
+  --color-black: #000000;
+  --color-white: #ffffff;
+  
+  /* derived from the color theme */
+  --background-color-accent: var(--color-accent);
+
+  --border-color: var(--background-color-highlight);
+  --border-color-highlight: var(--color-primary);
+
+  --text-color-link: var(--color-primary);
+  --text-color-link-visited: var(--text-color-link);
+  --text-color-link-hover: var(--color-secondary);
+  --text-color-link-active: var(--text-color-link-hover);
+
+  --form-button-text-color: var(--background-color-alt);
+  --form-button-background-color: var(--color-primary);
+  
+
+  --opacity-no: 1;
+  --opacity-low: 0.9;
+  --opacity-lower: 0.75;
+  --opacity-lowest: 0.6;
+
+  --transition-duration: 0.4s;
+}
+
+@media (prefers-color-scheme: dark) {
+  img, video {
+    opacity: var(--opacity-low);
+  }
+}
+
+/* remove _all_ animations and transitions for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  body {
+    scroll-behavior: auto;
+  }
+
+  * {
+    -webkit-animation: none !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* when serif font-family for main content */
+{% if site.styles.font_family == 'serif' %}
+:root {
+  --font-family: var(--font-family-serif);
+  --font-family-headings: var(--font-family-serif);
+}
+{% endif %}

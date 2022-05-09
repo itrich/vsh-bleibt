@@ -1,7 +1,0 @@
-{% if site.data.nav %}
-<nav>
-  {% for menu in site.data.nav -%}
-    <a href="{{ site.baseurl | prepend: site.url }}{{ menu.url }}">{{ menu.title }}</a>
-  {% endfor -%}
-</nav>
-{% endif %}

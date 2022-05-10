@@ -12,16 +12,11 @@ footer:
   custom: true
 
 # if above footer:custom is 'true', then this will be printed instead
-footer_custom: 'Der Text dieses Briefes wird unter CC BY-SA veröffentlicht.'
+footer_custom: 'Der Text dieses Briefes wurde unter CC BY-SA veröffentlicht.'
 
 layout:
   theme: default # default, vintage, nord
-  theme_highlighter: vs # default, more at css/highlighter (source: https://github.com/richleland/pygments-css)
   theme_switch: true # enable or disable user toggle switch between light and dark theme
-  home_posts_no: 6
-  home_postheader_title: 'Recent posts'
-  home_postmeta_title: 'View all'
-  posts_home: /blog/
   link_new_tab: true # should external links open in a new tab (true) or in the current tab (false)
 
 # styles
@@ -29,7 +24,6 @@ layout:
 styles:
   font_family: sans # serif, sans (default)
   forms: true
-  syntax_highlighter: true # Code Syntax Highlighter
 
 markdown: kramdown
 highlighter: rouge
@@ -38,20 +32,13 @@ permalink: pretty
 permalink: /:title/
 
 sass:
+  sass_dir: /assets/css/_sass
   style: compressed # nested, compact, expanded or compressed
   sourcemap: never
 
 plugins:
  - jekyll-optional-front-matter # https://github.com/benbalter/jekyll-optional-front-matter
  - jekyll-titles-from-headings # https://github.com/benbalter/jekyll-titles-from-headings/
-
-defaults:
-  - scope:
-      path: '_posts'
-      type: 'posts'
-    values:
-      layout: 'post'
-      permalink: '/:year/:title/'
 
 titles_from_headings:
   enabled: true
@@ -72,3 +59,4 @@ exclude:
   - README.*
   - server
   - vendor/
+  - .sass-cache/

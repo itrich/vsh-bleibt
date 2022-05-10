@@ -1,0 +1,12 @@
+<div class="row row-cols-2 row-cols-md-3 g-3 mt-2">
+{% for author in site.data.authors %}
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body text-center">
+        <p class="card-text pb-0">{{author.name}}<br/>
+        <small class="text-muted">{{author.role}}</small></p>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>

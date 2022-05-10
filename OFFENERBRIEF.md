@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 ---
-![Außenansicht des Aquariums des Verschwörhaus](vsh.jpg) _Außenansicht des Aquariums des Verschwörhaus, CC BY, [Silvan Reiser](https://konkludenz.de)_
+![Außenansicht des Aquariums des Verschwörhaus](vsh.jpg) _Außenansicht des Aquariums des Verschwörhaus. CC BY, [Silvan Reiser](https://konkludenz.de)_
 
 Am 6.5.2022 [berichtete der SWR](https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/neues-nutzungskonzept-fuer-verschwoerhaus-ulm-100.html)
 über das im Hauptausschuss beschlossene neue Nutzungskonzept der offenen Werkstatt [Verschwörhaus](https://verschwoerhaus.de/).
@@ -28,3 +28,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 Du möchtest unser Anliegen unterstützen? Dann unterzeichne doch den offenen Brief, teile ihn unter **#vshbleibt** in den sozialen Netzwerken,
 sprich mit deinen Mitmenschen darüber oder unterstütze das Verschwörhaus [direkt durch eine Spende](https://verschwoerhaus.de/spenden/). Werde
 aktiv und lass uns ein Zeichen für digitale Freiräume setzen – sie sind die Basis einer kritischen Netzpolitik!
+
+## Autor:innen
+
+{% include authors.html %}
+
+## Unterzeichner:innen
+
+{% include signees.html %}

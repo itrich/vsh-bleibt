@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Unterstütze unseren offenen Brief
 
-Du möchtest unser Anliegen unterstützen? Dann unterzeichne doch den offenen Brief, teile ihn unter **#vshbleibt** in den sozialen Netzwerken,
+Du möchtest unser Anliegen unterstützen? Unterzeichne den offenen Brief, teile ihn unter **#vshbleibt** in den sozialen Netzwerken,
 sprich mit deinen Mitmenschen darüber oder unterstütze das Verschwörhaus [direkt durch eine Spende](https://verschwoerhaus.de/spenden/). Werde
 aktiv und lass uns ein Zeichen für digitale Freiräume setzen – sie sind die Basis einer kritischen Netzpolitik!
 

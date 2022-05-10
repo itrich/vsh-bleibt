@@ -9,10 +9,10 @@ baseurl: /
 # footer
 footer:
   credit: false
-  custom: false
+  custom: true
 
 # if above footer:custom is 'true', then this will be printed instead
-footer_custom: 'An ever Work-in-Progress effort by <a href="https://oinam.com">Oinam</a>.'
+footer_custom: 'Der Text dieses Briefes wird unter CC BY-SA veröffentlicht.'
 
 layout:
   theme: default # default, vintage, nord

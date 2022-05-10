@@ -1,0 +1,12 @@
+<div class="row row-cols-3 row-cols-md-4 g-3 mt-2 small">
+{% for signee in site.data.signees %}
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body text-center">
+        <p class="card-text pb-0">{{signee.name}}<br/>
+        <small class="text-muted">{{signee.role}}</small></p>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>

@@ -17,11 +17,25 @@ wichtige Impulse gesetzt und mit Leidenschaft für offene Konzepte gestritten.**
 
 ## Wieso wir das Verschwörhaus wichtig finden
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+seit das damalige *Stadtlabor Ulm* 2016 initiiert und gegründet wurde, hat es sich für alle, die sich für die digitale Transformation der Verwaltung, für Open Data und eine neue Zusammenarbeit zwischen Staat und (digitaler) Zivilgesellschaft engagieren, in kürzester Zeit zu einer beispielgebenden Initiative entwickelt. In keiner anderen Kommune ist hierzulande bislang eine solche verwaltungsseitig unterstützte Community entstanden, die die digitale Transformation der Stadt mit riesigem Enthusiasmus, viel Engagement und großer Expertise konstruktiv-kritisch begleitet.
+
+Für uns stand immer fest: Die Stadtverwaltung von Ulm hat verstanden, was sie am Verschwörhaus und an dieser einmaligen Community hat. Und sie hat auch verstanden, warum es notwendig ist, diese mit mehr Freiheitsgraden "laufen zu lassen", als es Verwaltung normalerweise recht ist. Wir sind der festen Überzeugung:  Die Bedeutung der dort entstandenen Community für Verwaltung und Stadtgesellschaft kann man gar nicht hoch genug schätzen, wenn man "Smart City" wirklich ernsthaft, nachhaltig, Mehrwert stiftend und für die Bürgerinnen und Bürger gestalten will. Das Verschwörhaus zeigt(e), welche Rollen Zivilgesellschaft hier spielen kann und viel öfter spielen sollte: Kritisch-konstruktiver Begleiter der Verwaltung sein und dort helfen, wo Verwaltung aus welchen Gründen auch immer nicht so agieren kann, wie sie müsste. Mit der nunmehr getroffenen Entscheidung wird die Stadt Ulm wohl nun womöglich auf die harte Tour lernen, was für uns bereits absehbar ist: Es ist nicht möglich, als Verwaltung das zu kompensieren, was eine Gruppe engagierter Ehrenamtlicher reißen kann. Auch nicht, wenn man es ausschreibt und bezahlt. Keine Chance. 
+
+In Ulm gilt wie auch überall sonst: Verwaltung könnte und sollte viel mehr von externem Engagement profitieren, aber zu oft scheitert dies an der Übersetzung "zwischen den Welten" und an der tiefsitzenden Fokussierung auf Fragen der Rechtssicherheit und Passfähigkeit zum "normalen" Verwaltungshandeln. Ein wichtiger agiler Grundsatz lautet „Vertrauen vor Verträge“. Der Weg, den die Stadt nun eingeschlagen hat, ist das Gegenteil davon. Mit Brandschutz-, Markenrechts- und anderen Argumenten zu kommen, ist ein sicherer Weg, das riesige ehrenamtliche und freiwillige Engagement zu ersticken. 
+
+Die Community rund um das Verschwörhaus (die sich mittlerweile bei weitem ja nicht mehr nur auf Ulm beschränkt!) ist ein riesiger Schatz, dessen Wert der Stadt offenbar nicht im Ansatz bewusst ist. Statt auszugrenzen, müsste die Verwaltung vielmehr Wege finden, etwaige Probleme *für* die Ehrenamtlichen aus dem Weg zu räumen. Denn es kann bei Ehrenamt keine Bringschuld geben. Stattdessen ist man erneut an dem Punkt, an dem Verwaltung sagt: "Bitte seid kreativ, aber wehe ihr spielt nicht nach den üblichen Regeln". Mehr auf den Punkt gebracht: "Wasch mich, aber mach mich nicht nass". Doch so wird dieser so sehr beispielgebende Ansatz, für den Ulm mindestens in der Szene der Digitalen-Verwaltungs-Enthusiasten bekannt und beneidet war, in kürzester Zeit zerstört. Selbst wenn Name und Ort bestehen bleiben - ohne die ehrenamtliche Community wird ein solches Haus keinen echten Impact mehr erreichen.
+
+[...]
 
 ## Unsere Forderungen
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Sehr geehrter Herr Oberbügermeister Czisch, sehr geehrte Damen und Herren,
+
+Tragen Sie dafür Sorge, dass dieses enzigartige städtishe Ökosystem bestehen bleibt. Tragen Sie dafür Sorge, dass es dauerhaft auf finanziell feste Füße gestellt wird, ohne die Freiheitsgrade in Frage zu stellen, die für den Erfolg so ursächlich sind.
+
+Finden Sie gemeinsam mit den vielen Ehrenamtlichen einen Weg, um gemeinsam konstruktiv-kritisch an diesem Projekt weiterzuarbeiten. Das Verschwörhaus ist nach wenig mehr als fünf Jahren seiner Existenz nicht mehr alleine für die Stadt Ulm prägend, sondern auch und noch mehr für die digitalen Transformatoren vieler vieler weiterer Stäfte und Kommunen in Deutschland, für die es beispielgebend und zielprägend ist. Zerstören Sie nicht ohne Not eine solche einzigartige Gemeinschaft.
+
+[...]
 
 ## Unterstütze unseren offenen Brief
 

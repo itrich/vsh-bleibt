@@ -5,7 +5,7 @@ permalink: /
 ![Außenansicht des Aquariums des Verschwörhaus](vsh.jpg) _Außenansicht des Aquariums des Verschwörhaus. CC BY, [Silvan Reiser](https://konkludenz.de)_
 
 Am 6.5.2022 [berichtete der SWR](https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/neues-nutzungskonzept-fuer-verschwoerhaus-ulm-100.html)
-über das im Hauptausschuss beschlossene neue Nutzungskonzept der offenen Werkstatt [Verschwörhaus](https://verschwoerhaus.de/).
+über [das im Hauptausschuss beschlossene neue Nutzungskonzept](https://buergerinfo.ulm.de/vo0050.php?__kvonr=7605) der offenen Werkstatt [Verschwörhaus](https://verschwoerhaus.de/).
 Hintergrund ist ein vorausgegangener Streit um die Rechte am Namen “Verschwörhaus” sowie an der Ausrichtung des, weit über Ulm hinaus, bekannten Freiraums.
 
 Das Verschwörhaus ist ein offener Treffpunkt in Ulm, in dem sich engagierte Menschen kritisch zu digitalpolitischen Themen austauschen können. In dem sie aber vor allem Technik und Netzkultur gemeinsam erleben und ausbauen können.

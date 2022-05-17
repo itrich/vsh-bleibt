@@ -42,6 +42,10 @@ aktiv und lass uns ein Zeichen für digitale Freiräume setzen – sie sind die 
 
 {% include authors.html %}
 
+## Unterstützende Organisationen
+
+{% include organizations.html %}
+
 ## Unterzeichner:innen
 
 {% include signees.html %}

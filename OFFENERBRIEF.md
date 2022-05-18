@@ -30,7 +30,7 @@ Sehr geehrter Herr Oberbürgermeister Czisch, sehr geehrte Damen und Herren,
 
 tragen Sie dafür Sorge, dass dieses einzigartige städtische Ökosystem bestehen bleibt. Nehmen Sie das Nutzungskonzept zurück und ermöglichen eine freie und unabhängige digitale Vereinsarbeit. Gehen Sie den bewährten Weg weiter und unterstützen finanziell die Ulmer Community, ohne die Freiheitsgrade in Frage zu stellen, die für den Erfolg so ursächlich sind.
 
-Finden Sie gemeinsam mit den vielen Ehrenamtlichen einen Weg, um gemeinsam konstruktiv-kritisch an diesem Projekt weiterzuarbeiten. Dazu zählt insbesondere auch die Anerkennung der Namensrechte und der Beilegung des laufenden Rechtsstreits.
+Finden Sie gemeinsam mit den vielen Ehrenamtlichen einen Weg, um gemeinsam konstruktiv-kritisch an diesem Projekt weiterzuarbeiten. Dazu zählt insbesondere auch die Anerkennung der Namensrechte und die Beilegung des laufenden Rechtsstreits.
 
 Das Verschwörhaus ist längst nicht mehr alleine für die Stadt Ulm prägend. Wie oben bereits ausgeführt: Das Verschwörhaus trägt auch ganz entscheidend zur digitalen Transformation vieler anderer Kommunen in ganz Deutschland bei. Zerstören Sie nicht ohne Not eine solche einzigartige Gemeinschaft!
 

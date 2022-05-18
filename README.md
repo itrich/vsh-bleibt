@@ -13,7 +13,7 @@ sowie ein Logo unter [`assets`](https://github.com/itrich/vsh-bleibt/blob/main/a
 Hierzu machst du am besten einen Pull Request gegen den Branch `main` auf.
 
 ### Ich würde den Brief gerne unterzeichnen/unterstützen, komme aber mit GitHub nicht zurecht
-Schreibe uns gerne eine E-Mail an _t.b.d_ und teile uns deinen Wunsch auf Eintragung mit.
+Schreibe uns gerne eine E-Mail an <unterzeichnen@verschwoerhaus-bleibt.de> und teile uns deinen Wunsch auf Eintragung mit.
 
 ## Lizenzhinweise
 

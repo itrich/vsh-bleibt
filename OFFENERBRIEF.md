@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /
+image: vsh.jpg
 ---
 ![Außenansicht des Aquariums des Verschwörhaus](vsh.jpg) _Außenansicht des Aquariums des Verschwörhaus. CC BY, [Silvan Reiser](https://konkludenz.de)_
 

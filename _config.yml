@@ -3,8 +3,8 @@ description: Offener Brief an die Stadtverwaltung Ulm
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
-url: https://itrich.github.io/vsh-bleibt
-baseurl: /vsh-bleibt/
+url: https://verschwoerhaus-bleibt.de
+baseurl: /
 
 # footer
 footer:

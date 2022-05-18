@@ -37,7 +37,7 @@ Das Verschwörhaus ist längst nicht mehr alleine für die Stadt Ulm prägend. W
 
 ## Unterstütze unseren offenen Brief
 
-Du möchtest unser Anliegen unterstützen? Unterzeichne den offenen Brief, teile ihn unter **#vshbleibt** in den sozialen Netzwerken,
+Du möchtest unser Anliegen unterstützen? [Unterzeichne den offenen Brief](https://github.com/itrich/vsh-bleibt/blob/main/README.md#ich-m%C3%B6chte-den-brief-unterschreiben-was-kann-ich-tun), teile ihn unter **#vshbleibt** in den sozialen Netzwerken,
 sprich mit Deinen Mitmenschen darüber oder unterstütze das Verschwörhaus [direkt durch eine Spende](https://verschwoerhaus.de/spenden/). Werde
 aktiv und lass uns ein Zeichen für digitale Freiräume setzen – sie sind die Basis einer erfolgreichen und kritischen Netzpolitik!
 

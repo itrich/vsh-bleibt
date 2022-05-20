@@ -3,6 +3,10 @@ main img {
   border-bottom-right-radius: 0 !important;
 }
 
+main img.logo {
+  border-radius: var(--border-radius) !important;
+}
+
 img+em, a+em.caption {
   margin: unset !important;
 }

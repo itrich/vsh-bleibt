@@ -1,10 +1,9 @@
-title: Verschwörhaus bleibt
-description: Offener Brief an die Stadtverwaltung Ulm
+title: Das Verschwörhaus bleibt! 🥳
+description: Vorläufiger Kompromissvorschlag steht zur Diskussion
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
 url: https://verschwoerhaus-bleibt.de
-baseurl: /
 
 # footer
 footer:

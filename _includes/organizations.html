@@ -1,7 +1,7 @@
 <div class="row align-items-center">
   {% for organization in site.data.organizations %}
   <div class="col-sm-6 col-12 my-3">
-    <img class="mx-auto d-block" src="{{ organization.logo | prepend: site.baseurl }}" alt="{{ organization.name }}" style="max-height: 150px; max-width: 300px;">
+    <img class="logo mx-auto d-block" src="{{ organization.logo | prepend: site.baseurl }}" alt="{{ organization.name }}" style="max-height: 150px; max-width: 300px;">
   </div>
   {% endfor %}
 </div>

@@ -5,6 +5,19 @@ image: vsh.jpg
 ---
 ![Außenansicht des Aquariums des Verschwörhaus](vsh.jpg) _Außenansicht des Aquariums des Verschwörhaus. CC BY, [Silvan Reiser](https://konkludenz.de)_
 
+<p class="mt-4"><em>Update: Am Mittwoch, den 18.05. fand ein direktes Gespräch zwischen Ehrenamtlichen des Verschwörhaus
+und Oberbürgermeister Czisch statt. Es liegt ein neuer Kompromissvorschlag auf dem Tisch, über dessen Stand
+schon bald auf den öffentlichen Kanälen des Verschwörhaus berichtet wird. Damit beide Seiten zu einer
+guten Entscheidung kommen können, wird dieser offene Brief zunächst pausiert.</em></p>
+
+<div class="d-grid gap-2 col-6 mx-auto">
+  <a class="btn btn-primary" data-bs-toggle="collapse" href="#offenerBrief" role="button" aria-expanded="false" aria-controls="offenerBrief">
+  Letzter Stand des offenen Briefes &#8675;
+  </a>
+</div>
+
+<div class="collapse mt-4" id="offenerBrief" markdown="1">
+
 Am 6.5.2022 [berichtete der SWR](https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/neues-nutzungskonzept-fuer-verschwoerhaus-ulm-100.html)
 über [das im Hauptausschuss beschlossene neue Nutzungskonzept](https://buergerinfo.ulm.de/vo0050.php?__kvonr=7605) der offenen Werkstatt [Verschwörhaus](https://verschwoerhaus.de/).
 Hintergrund ist ein vorausgegangener Streit um die Rechte am Namen “Verschwörhaus” sowie an der Ausrichtung des, weit über Ulm hinaus, bekannten Freiraums.
@@ -52,3 +65,5 @@ aktiv und lass uns ein Zeichen für digitale Freiräume setzen – sie sind die 
 ## Unterzeichner:innen
 
 {% include signees.html %}
+
+</div>

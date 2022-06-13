@@ -38,15 +38,19 @@ Mit der jüngsten Entscheidung zum neuen Nutzungskonzept wird all dies in Frage 
 
 Wir als Freunde und Unterstützer des Verschwörhaus hoffen, dass die Stadt Ulm diesen riesigen Schatz weiterhin bewahrt und pflegt und ihn nicht grundlos und leichtfertig zerstört. Denn: Selbst, wenn Name und Ort bestehen bleiben – ohne die ehrenamtliche Community wird ein solches Haus keine echte Wirkung mehr erreichen.
 
-## Unsere Forderungen
+## Unsere Wünsche
+
+Wir hoffen trotz allem, dass dieses einzigartige städtische Ökosystem bestehen bleibt und Stadt und Verein über die Zeit wieder näher zusammenrücken können.
+
+Wir hoffen, dass trotz aller Differenzen und Konflikte ein Weg gefunden wird, um gemeinsam konstruktiv-kritisch an diesem "Ulmer Schatz" weiterzuarbeiten. Dazu zählt insbesondere auch die Anerkennung der Namensrechte und die Beilegung des laufenden Rechtsstreits.
+
+Wir hoffen, dass eine freie und unabhängige digitale Vereinsarbeit - ggf. auch unabhängig von der Stadt und an anderem Ort - gelingen wird.
+
+Das Verschwörhaus ist längst nicht mehr alleine für die Stadt Ulm prägend. Es trägt auch ganz entscheidend zur digitalen Transformation vieler anderer Kommunen in ganz Deutschland bei.
 
 Sehr geehrter Herr Oberbürgermeister Czisch, sehr geehrte Damen und Herren,
 
-tragen Sie dafür Sorge, dass dieses einzigartige städtische Ökosystem bestehen bleibt. Nehmen Sie das Nutzungskonzept zurück und ermöglichen eine freie und unabhängige digitale Vereinsarbeit. Gehen Sie den bewährten Weg weiter und unterstützen finanziell die Ulmer Community, ohne die Freiheitsgrade in Frage zu stellen, die für den Erfolg so ursächlich sind.
-
-Finden Sie gemeinsam mit den vielen Ehrenamtlichen einen Weg, um gemeinsam konstruktiv-kritisch an diesem Projekt weiterzuarbeiten. Dazu zählt insbesondere auch die Anerkennung der Namensrechte und die Beilegung des laufenden Rechtsstreits.
-
-Das Verschwörhaus ist längst nicht mehr alleine für die Stadt Ulm prägend. Wie oben bereits ausgeführt: Das Verschwörhaus trägt auch ganz entscheidend zur digitalen Transformation vieler anderer Kommunen in ganz Deutschland bei. Zerstören Sie nicht ohne Not eine solche einzigartige Gemeinschaft!
+Zerstören Sie nicht ohne Not eine solche einzigartige Gemeinschaft!
 
 ## Unterstütze unseren offenen Brief
 

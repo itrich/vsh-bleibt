@@ -40,17 +40,21 @@ Wir als Freunde und Unterstützer des Verschwörhaus hoffen, dass die Stadt Ulm 
 
 ## Unsere Wünsche
 
-Wir hoffen trotz allem, dass dieses einzigartige städtische Ökosystem bestehen bleibt und Stadt und Verein über die Zeit wieder näher zusammenrücken können.
+Wir hoffen trotz allem, dass dieses einzigartige städtische Ökosystem bestehen bleibt und
+sich dafür weiterhin viele Unterstützer:innen finden - aus der Stadt Ulm und ganz
+Deutschland.
 
-Wir hoffen, dass trotz aller Differenzen und Konflikte ein Weg gefunden wird, um gemeinsam konstruktiv-kritisch an diesem "Ulmer Schatz" weiterzuarbeiten. Dazu zählt insbesondere auch die Anerkennung der Namensrechte und die Beilegung des laufenden Rechtsstreits.
+Wir hoffen, dass trotz aller Differenzen und Konflikte ein Weg gefunden wird, um gemeinsam konstruktiv-kritisch an diesem "Ulmer Schatz" weiterzuarbeiten. Dazu zählt insbesondere auch die Anerkennung, dass die Namensrechte beim Ehrenamt liegen und die Stadt sich
+dieser nicht bemächtigen darf.
 
-Wir hoffen, dass eine freie und unabhängige digitale Vereinsarbeit - ggf. auch unabhängig von der Stadt und an anderem Ort - gelingen wird.
+Wir hoffen, dass eine freie und unabhängige digitale Vereinsarbeit gelingen wird, ggf. auch ganz unabhängig von der Stadtverwaltung und an anderem Ort.
 
 Das Verschwörhaus ist längst nicht mehr alleine für die Stadt Ulm prägend. Es trägt auch ganz entscheidend zur digitalen Transformation vieler anderer Kommunen in ganz Deutschland bei.
 
 Sehr geehrter Herr Oberbürgermeister Czisch, sehr geehrte Damen und Herren,
 
-Zerstören Sie nicht ohne Not eine solche einzigartige Gemeinschaft!
+schauen Sie sich nochmal ganz genau an, was von den Ehrenamtlichen des Verschwörhauses in den letzten Jahren an Inspiration und ganz konkreten Beiträgen geschaffen wurde. Versuchen Sie zu erkennen unter welchen Bedingungen dies geschehen
+konnte. Zerstören Sie nicht ohne Not eine solch einzigartige Gemeinschaft. Überlassen Sie den Namen und sorgen sie für den notwendigen Freiraum.
 
 ## Unterstütze unseren offenen Brief
 

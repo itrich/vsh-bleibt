@@ -53,7 +53,7 @@ Das Verschwörhaus ist längst nicht mehr alleine für die Stadt Ulm prägend. E
 
 Sehr geehrter Herr Oberbürgermeister Czisch, sehr geehrte Damen und Herren,
 
-schauen Sie sich nochmal ganz genau an, was von den Ehrenamtlichen des Verschwörhauses in den letzten Jahren an Inspiration und ganz konkreten Beiträgen geschaffen wurde. Versuchen Sie zu erkennen unter welchen Bedingungen dies geschehen
+schauen Sie sich nochmal ganz genau an, was von den Ehrenamtlichen des Verschwörhauses in den letzten Jahren an Inspiration und ganz konkreten Beiträgen geschaffen wurde. Versuchen Sie zu erkennen, unter welchen Bedingungen dies geschehen
 konnte. Zerstören Sie nicht ohne Not eine solch einzigartige Gemeinschaft. Überlassen Sie den Namen und sorgen sie für den notwendigen Freiraum.
 
 ## Unterstütze unseren offenen Brief

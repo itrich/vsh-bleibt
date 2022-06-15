@@ -31,8 +31,6 @@ body {
   overflow-x: hidden;
   word-break: break-word;
   overflow-wrap: break-word;
-  
-  text-align: justify;
 
   /* transition for color-theme */
   transition: background 500ms ease-in-out, color 200ms ease;
@@ -43,6 +41,9 @@ h1, h2, h3, h4, h5, h6 {
   line-height: var(--line-height-heading);
 }
 
+p {
+  text-align: justify;
+}
 
 h1 {
   font-size: calc(var(--font-size) * var(--typescale-heading) * var(--typescale-heading) * var(--typescale-heading) * var(--typescale-heading));

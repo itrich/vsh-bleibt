@@ -45,6 +45,10 @@ p {
   text-align: justify;
 }
 
+p.card-text {
+  text-align: center !important;
+}
+
 h1 {
   font-size: calc(var(--font-size) * var(--typescale-heading) * var(--typescale-heading) * var(--typescale-heading) * var(--typescale-heading));
   margin-top: calc(var(--line-height) * var(--spacing-heading));

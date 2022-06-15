@@ -7,6 +7,9 @@
 - name: zerforschung
   logo: /assets/zer.svg
   url: "https://zerforschung.org/"
+- name: "Chaos Computer Club e. V."
+  logo: /assets/ccc.svg
+  url: "https://ccc.de"
 - name: Verbund Offener Werkstätten e.V.
   logo: /assets/verbund-offener-werkstaetten-logo.png
   url: "https://www.offene-werkstaetten.org/"

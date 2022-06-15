@@ -1,6 +1,6 @@
 <div class="row align-items-center">
   {% for organization in site.data.organizations %}
-  <div class="col-sm-6 col-12 my-3">
+  <div class="col-sm-6 col-12 my-4">
     {% if organization.url %}<a href="{{organization.url}}" target="_blank">{% endif %}
     <img class="logo mx-auto d-block" src="{{ organization.logo | prepend: site.baseurl }}" alt="{{ organization.name }}" style="max-height: 150px; max-width: 300px;">
     {% if organization.url %}</a>{% endif %}

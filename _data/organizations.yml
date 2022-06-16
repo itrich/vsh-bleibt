@@ -28,3 +28,6 @@
 - name: MITFAHR|DE|ZENTRALE
   logo: /assets/mfdz.svg
   url: "https://mfdz.de/"
+- name: OpenLab Augsburg
+  logo: /assets/openlab-augsburg-logo.png
+  url: "https://www.openlab-augsburg.de/"

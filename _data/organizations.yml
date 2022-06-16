@@ -31,3 +31,6 @@
 - name: OpenLab Augsburg
   logo: /assets/openlab-augsburg-logo.png
   url: "https://www.openlab-augsburg.de/"
+- name: xHain hack+makespace
+  logo: /assets/xhain.svg
+  url: "https://x-hain.de"

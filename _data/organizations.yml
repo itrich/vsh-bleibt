@@ -1,8 +1,33 @@
 - name: Open Knowledge Foundation Deutschland e.V.
   logo: /assets/okfn.svg
+  url: "https://okfn.de/"
 - name: Verwaltungsrebellen
   logo: /assets/vr.png
+  url: "https://verwaltungsrebellen.de/"
 - name: zerforschung
   logo: /assets/zer.svg
+  url: "https://zerforschung.org/"
+- name: "Chaos Computer Club e. V."
+  logo: /assets/ccc.svg
+  url: "https://ccc.de"
 - name: Verbund Offener Werkstätten e.V.
   logo: /assets/verbund-offener-werkstaetten-logo.png
+  url: "https://www.offene-werkstaetten.org/"
+- name: Eigenbaukombinat Halle e.V.
+  logo: /assets/eigenbaukombinat-logo.png
+  url: "https://eigenbaukombinat.de/"
+- name: C3WOC
+  logo: /assets/c3woc.svg
+  url: "https://c3woc.de/"
+- name: TheThingsNetwork Mitteldeutschland
+  logo: /assets/ttn_md.png
+  url: "https://ttn-mitteldeutschland.de"
+- name: Entropia e.V. - CCC Karlsruhe
+  logo: /assets/cccka-entropia-transparent.png
+  url: "https://entropia.de/"
+- name: MITFAHR|DE|ZENTRALE
+  logo: /assets/mfdz.svg
+  url: "https://mfdz.de/"
+- name: OpenLab Augsburg
+  logo: /assets/openlab-augsburg-logo.png
+  url: "https://www.openlab-augsburg.de/"

@@ -5,18 +5,7 @@ image: vsh.jpg
 ---
 ![Außenansicht des Aquariums des Verschwörhaus](vsh.jpg) _Außenansicht des Aquariums des Verschwörhaus. CC BY, [Silvan Reiser](https://konkludenz.de)_
 
-<p class="mt-4"><em>Update: Am Mittwoch, den 18.05. fand ein direktes Gespräch zwischen Ehrenamtlichen des Verschwörhaus
-und Oberbürgermeister Czisch statt. Es liegt ein neuer Kompromissvorschlag auf dem Tisch, über dessen Stand
-schon bald auf den öffentlichen Kanälen des Verschwörhaus berichtet wird. Damit beide Seiten zu einer
-guten Entscheidung kommen können, wird dieser offene Brief zunächst pausiert.</em></p>
-
-<div class="d-grid gap-2 col-6 mx-auto">
-  <a class="btn btn-primary" data-bs-toggle="collapse" href="#offenerBrief" role="button" aria-expanded="false" aria-controls="offenerBrief">
-  Letzter Stand des offenen Briefes &#8675;
-  </a>
-</div>
-
-<div class="collapse mt-4" id="offenerBrief" markdown="1">
+<p class="mt-4"><em>Update: Die Stadt Ulm will den Ehrenamtlichen ihren Namen wegnehmen und wirft den Verein Verschwörhaus e.V. mit seinen Ehrenamtlichen, Freunden, offenen Terminen und Angeboten aus den Räumen am Weinhof. Die bisherigen Verhandlungen waren erfolglos und die Stadtverwaltung ließ keinerlei Verständnis für das ehrenamtliche Engagement erkennen. Nun benötigt der Verein eure Unterstützung – den Aufruf des Vereins findet ihr <a href="https://verschwoerhaus.de/das-verschwoerhaus-zieht-um/" target="_blank">hier</a>. Bitte teilt diesen Beitrag und unterstützt diesen wichtigen offenen Treffpunkt/Freiraum in Ulm!</em></p>
 
 Am 6.5.2022 [berichtete der SWR](https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/neues-nutzungskonzept-fuer-verschwoerhaus-ulm-100.html)
 über [das im Hauptausschuss beschlossene neue Nutzungskonzept](https://buergerinfo.ulm.de/vo0050.php?__kvonr=7605) der offenen Werkstatt [Verschwörhaus](https://verschwoerhaus.de/).
@@ -38,15 +27,23 @@ Mit der jüngsten Entscheidung zum neuen Nutzungskonzept wird all dies in Frage 
 
 Wir als Freunde und Unterstützer des Verschwörhaus hoffen, dass die Stadt Ulm diesen riesigen Schatz weiterhin bewahrt und pflegt und ihn nicht grundlos und leichtfertig zerstört. Denn: Selbst, wenn Name und Ort bestehen bleiben – ohne die ehrenamtliche Community wird ein solches Haus keine echte Wirkung mehr erreichen.
 
-## Unsere Forderungen
+## Unsere Wünsche
+
+Wir hoffen trotz allem, dass dieses einzigartige städtische Ökosystem bestehen bleibt und
+sich dafür weiterhin viele Unterstützer:innen finden - aus der Stadt Ulm und ganz
+Deutschland.
+
+Wir hoffen, dass trotz aller Differenzen und Konflikte ein Weg gefunden wird, um gemeinsam konstruktiv-kritisch an diesem "Ulmer Schatz" weiterzuarbeiten. Dazu zählt insbesondere auch die Anerkennung, dass die Namensrechte beim Ehrenamt liegen und die Stadt sich
+dieser nicht bemächtigen darf.
+
+Wir hoffen, dass eine freie und unabhängige digitale Vereinsarbeit gelingen wird, ggf. auch ganz unabhängig von der Stadtverwaltung und an anderem Ort.
+
+Das Verschwörhaus ist längst nicht mehr alleine für die Stadt Ulm prägend. Es trägt auch ganz entscheidend zur digitalen Transformation vieler anderer Kommunen in ganz Deutschland bei.
 
 Sehr geehrter Herr Oberbürgermeister Czisch, sehr geehrte Damen und Herren,
 
-tragen Sie dafür Sorge, dass dieses einzigartige städtische Ökosystem bestehen bleibt. Nehmen Sie das Nutzungskonzept zurück und ermöglichen eine freie und unabhängige digitale Vereinsarbeit. Gehen Sie den bewährten Weg weiter und unterstützen finanziell die Ulmer Community, ohne die Freiheitsgrade in Frage zu stellen, die für den Erfolg so ursächlich sind.
-
-Finden Sie gemeinsam mit den vielen Ehrenamtlichen einen Weg, um gemeinsam konstruktiv-kritisch an diesem Projekt weiterzuarbeiten. Dazu zählt insbesondere auch die Anerkennung der Namensrechte und die Beilegung des laufenden Rechtsstreits.
-
-Das Verschwörhaus ist längst nicht mehr alleine für die Stadt Ulm prägend. Wie oben bereits ausgeführt: Das Verschwörhaus trägt auch ganz entscheidend zur digitalen Transformation vieler anderer Kommunen in ganz Deutschland bei. Zerstören Sie nicht ohne Not eine solche einzigartige Gemeinschaft!
+schauen Sie sich nochmal ganz genau an, was von den Ehrenamtlichen des Verschwörhauses in den letzten Jahren an Inspiration und ganz konkreten Beiträgen geschaffen wurde. Versuchen Sie zu erkennen, unter welchen Bedingungen dies geschehen
+konnte. Zerstören Sie nicht ohne Not eine solch einzigartige Gemeinschaft. Überlassen Sie den Namen und sorgen sie für den notwendigen Freiraum.
 
 ## Unterstütze unseren offenen Brief
 
@@ -65,5 +62,3 @@ aktiv und lass uns ein Zeichen für digitale Freiräume setzen – sie sind die 
 ## Unterzeichner:innen
 
 {% include signees.html %}
-
-</div>

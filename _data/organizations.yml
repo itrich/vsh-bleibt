@@ -37,4 +37,6 @@
 - name: Offene Kommunen.NRW Institut e. V.
   logo: /assets/OKNRW.png
   url: "https://oknrw.de/"
-  
+- name: backspace e.V.
+  logo: /assets/backspace.svg
+  url: "https://www.hackerspace-bamberg.de"

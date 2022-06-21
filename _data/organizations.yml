@@ -40,3 +40,6 @@
 - name: backspace e.V.
   logo: /assets/backspace.svg
   url: "https://www.hackerspace-bamberg.de"
+- name: section77 e.V.
+  logo: /assets/S77.svg
+  url: "https://section77.de"
